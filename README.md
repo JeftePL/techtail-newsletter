@@ -8,7 +8,7 @@ First install the dependences:
 
 `npm install`
 
-And then run the command to watch and compile the files:
+And then run the command to watch and compile the CSS files
 
 `npm run watch`
 
